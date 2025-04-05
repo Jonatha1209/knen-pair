@@ -1,2 +1,3 @@
 # knen-pair
-My pair class
+My pair class made by me. </br>
+very simple!
